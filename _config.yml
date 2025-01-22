@@ -6,3 +6,11 @@ email: your_email@example.com
 social_links:
   - github: sarahjing228
   - linkedin: sarahjing
+
+navbar_links:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
